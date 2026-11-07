@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "severity": "normal",
-  "url": "https://hilum-download.ezequiel-dawud.workers.dev/download",
-  "notes": "## Versão 1.0.0\n\n- Lançamento inicial do Hilum\n"
+  "url": "https://github.com/ezequiel-dawud/hilum-updates/releases/download/v1.0.1/Hilum_1.0.1_x64-setup.exe",
+  "notes": "## Versão 1.0.1\n\n- Update de 1 clique no Desktop (checagem automática + instalação silenciosa)\n- Biblioteca Hilum: filtro por gênero dentro da família selecionada\n- Contribuição comunitária de espécies/fotos à Biblioteca Hilum (opt-in, com curadoria)\n- Botão de feedback discreto\n- Diversos ajustes e correções\n"
 }
