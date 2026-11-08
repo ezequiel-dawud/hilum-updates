@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "severity": "normal",
+  "url": "https://ezequiel-dawud.github.io/hilum-updates/",
+  "notes": "## Versão 1.1.0\n\n- Dispositivos pareados: o celular agora reporta o modelo real do aparelho em vez de \"Celular\" genérico\n\nEsta versão ainda não foi publicada para download — aviso de teste."
+}
