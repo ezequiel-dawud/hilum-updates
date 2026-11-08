@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "severity": "normal",
-  "url": "https://ezequiel-dawud.github.io/hilum-updates/",
-  "notes": "## Versão 1.1.0\n\n- Dispositivos pareados: o celular agora reporta o modelo real do aparelho em vez de \"Celular\" genérico\n\nEsta versão ainda não foi publicada para download — aviso de teste."
+  "url": "https://drive.google.com/drive/folders/1zrM24gcOfth2X9iuy1NkklECQCJEx5DW",
+  "notes": "## Versão 1.1.1\n\n- Correção: Pl@ntNet agora mostra um aviso quando não consegue identificar, em vez de simplesmente desaparecer sem explicação\n\nToque em \"Baixar\", abra a pasta e instale o arquivo Hilum-Flutter-Android.apk."
 }
