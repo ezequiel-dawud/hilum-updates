@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "severity": "normal",
   "url": "https://drive.google.com/drive/folders/1zrM24gcOfth2X9iuy1NkklECQCJEx5DW",
-  "notes": "## Versão 1.1.1\n\n- Correção: Pl@ntNet agora mostra um aviso quando não consegue identificar, em vez de simplesmente desaparecer sem explicação\n\nToque em \"Baixar\", abra a pasta e instale o arquivo Hilum-Flutter-Android.apk."
+  "notes": "## Versão 1.1.2\n\n- Correção: Pl@ntNet agora mostra um aviso quando não consegue identificar, em vez de simplesmente desaparecer sem explicação\n\n- Correção: pareamento por código podia deixar o celular \"logado\" sem usuário de verdade (nome e usuário apareciam como \"—\"), se o login automático acontecesse antes do catálogo terminar de chegar. Agora tenta algumas vezes antes de desistir, e nunca mais finge que deu certo.\n\nToque em \"Baixar\", abra a pasta e instale o arquivo Hilum-Flutter-Android.apk."
 }
