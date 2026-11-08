@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "severity": "normal",
-  "url": "https://github.com/ezequiel-dawud/hilum-updates/releases/download/v1.0.2/Hilum_1.0.2_x64-setup.exe",
-  "notes": "## Versão 1.0.2\n\n- Corrige um travamento real no pareamento de novo PC: a sincronização com a nuvem só começava a rodar depois do login, mas o próprio login podia depender dela ter rodado (usuário criado ou senha trocada depois do código de pareamento). Agora a sincronização roda em segundo plano desde a abertura do app, mesmo antes de logar.\n"
+  "version": "1.0.3",
+  "severity": "critica",
+  "url": "https://github.com/ezequiel-dawud/hilum-updates/releases/download/v1.0.3/Hilum_1.0.3_x64-setup.exe",
+  "notes": "## Versão 1.0.3\n\n- Corrige um bug real no atualizador de 1 clique: a instalação silenciosa (NSIS /S) nunca era de fato executada — um comando mal formado fazia o Windows procurar um arquivo com aspas no nome, então a instalação falhava silenciosamente mesmo depois do download terminar e o app fechar sozinho. Agora a atualização de 1 clique funciona de ponta a ponta.\n- Corrige um travamento real no pareamento de novo PC: a sincronização com a nuvem só começava a rodar depois do login, mas o próprio login podia depender dela ter rodado (usuário criado ou senha trocada depois do código de pareamento). Agora a sincronização roda em segundo plano desde a abertura do app, mesmo antes de logar.\n"
 }
